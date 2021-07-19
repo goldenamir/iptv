@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB NASIM
 https://sdw.telewebion.com/live/nasim/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Manoto" tvg-name="Manoto" tvg-country="IR-INT" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="Iran",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
