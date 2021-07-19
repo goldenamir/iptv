@@ -6,393 +6,119 @@ https://sdw.telewebion.com/live/nasim/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Manoto" tvg-name="Manoto" tvg-country="IR-INT" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="Iran",Manoto
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
-#EXTINF:-1,Manoto TV FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666127
-#EXTINF:-1,Manoto TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665202
-#EXTINF:-1,Manoto Plus HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665203
-#EXTINF:-1,Manoto +1 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682576
-#EXTINF:-1,Manoto HD +2 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682568
-#EXTINF:-1,IRIB TV1 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665274
-#EXTINF:-1,Jahan Noma/TV Sinamo IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665307
-#EXTINF:-1,IRIB TV 2 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665275
-#EXTINF:-1,IRIB TV 3 FHD FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/686791
-#EXTINF:-1,IRIB TV 3 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665276
-#EXTINF:-1,IRIB TV 3 SD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666409
-#EXTINF:-1,IRIB TV 4 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665277
-#EXTINF:-1,IRIB TV 5 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665278
-#EXTINF:-1,IRINN 6 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665280
-#EXTINF:-1,IRINN HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/3663
-#EXTINF:-1,IRIB Amoozesh IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665288
-#EXTINF:-1,IRIB QURAN IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665285
-#EXTINF:-1,IRIB Iran Kala IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665287
-#EXTINF:-1,IRIB Ofogh IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665301
-#EXTINF:-1,IRIB Salamat IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665303
-#EXTINF:-1,IRIB Shoma IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665305
-#EXTINF:-1,IRIB Mahabad IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665306
-#EXTINF:-1,IRIB Khalij IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665311
-#EXTINF:-1,IRIB Omid IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665314
-#EXTINF:-1,IRIB Atrak TV (Khorasan Shomali) IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665316
-#EXTINF:-1,IRIB Khorasan Razavi TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666411
-#EXTINF:-1,IRIB Namayesh IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665317
-#EXTINF:-1,IRIB Nasim IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665332
-#EXTINF:-1,IRIB Boushehr IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666412
-#EXTINF:-1,IRIB Kerman TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666414
-#EXTINF:-1,IRIB Qazvin IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670453
-#EXTINF:-1,IRIB Jahanbin IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670454
-#EXTINF:-1,IRIB ILAM IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670455
-#EXTINF:-1,IRIB Hamoon IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682554
-#EXTINF:-1,IRIB Hamedan IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682555
-#EXTINF:-1,Tamasha HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683136
-#EXTINF:-1,Andisheh TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/3662
-#EXTINF:-1,Irane Farda IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/38506
-#EXTINF:-1,Abadan IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/37000
-#EXTINF:-1,Aftab IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/635503
-#EXTINF:-1,Golestan IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/635502
-#EXTINF:-1,Aflaak IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/36990
-#EXTINF:-1,Tabriz IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/649141
-#EXTINF:-1,Baran IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/37328
-#EXTINF:-1,Alborz IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50739
-#EXTINF:-1,Tin TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11238
-#EXTINF:-1,Bartar HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682566
-#EXTINF:-1,------ Sports ------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687051
-#EXTINF:-1,IRIB 3 Football Event HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682562
-#EXTINF:-1,IRIB Varzesh FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/686792
-#EXTINF:-1,IRIB Varzesh HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665286
-#EXTINF:-1,Varzesh 1 FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/664488
-#EXTINF:-1,Varzesh 2 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687075
-#EXTINF:-1,Varzesh 3 FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687077
-#EXTINF:-1,----- Movies & Series -----
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687052
-#EXTINF:-1,AVA Family FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/683915
-#EXTINF:-1,MBC Persia IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/649082
-#EXTINF:-1,Cine Film FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/635494
-#EXTINF:-1,Cine Film HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665255
-#EXTINF:-1,Cine Series HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665254
-#EXTINF:-1,Persiana Iranian HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/672078
-#EXTINF:-1,Persiana Cinema HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/664493
-#EXTINF:-1,Persian Classic HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671199
-#EXTINF:-1,Persiana Comedy IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671201
-#EXTINF:-1,Persiana Family HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/664489
-#EXTINF:-1,Persiana Family + HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/664492
-#EXTINF:-1,Persiana Nostalgia HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671509
-#EXTINF:-1,Persiana Kurdi HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681927
-#EXTINF:-1,Gem TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/3686
-#EXTINF:-1,Gem+ TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665204
-#EXTINF:-1,Gem Mifa IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/3680
-#EXTINF:-1,GEM Arabia IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50359
-#EXTINF:-1,Gem Property IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/663517
-#EXTINF:-1,Gem Onyx HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665205
-#EXTINF:-1,Gem Latino IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665206
-#EXTINF:-1,Gem Rubix+ HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665209
-#EXTINF:-1,GEM Rubix+ HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666418
-#EXTINF:-1,GEM Academy HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665210
-#EXTINF:-1,Gem Series IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670450
-#EXTINF:-1,Gem Series Plus HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665211
-#EXTINF:-1,Gem Drama IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665212
-#EXTINF:-1,Gem Drama plus HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665214
-#EXTINF:-1,Gem Fit HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665215
-#EXTINF:-1,Gem Food HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665216
-#EXTINF:-1,Gem Life HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665217
-#EXTINF:-1,Gem Comedy HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665218
-#EXTINF:-1,Gem Bollywood HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665235
-#EXTINF:-1,Gem Film HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665242
-#EXTINF:-1,Gem Classic IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665237
-#EXTINF:-1,Gem Maxx HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/688969
-#EXTINF:-1,Gem AZ 1 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665240
-#EXTINF:-1,Gem River HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670451
-#EXTINF:-1,GEM River Plus HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682572
-#EXTINF:-1,Oxir IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11220
-#EXTINF:-1,VOX 1 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665186
-#EXTINF:-1,VOX 2 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665187
-#EXTINF:-1,Khatereh TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665189
-#EXTINF:-1,Film 1 TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/686794
-#EXTINF:-1,iFILM [En] IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665360
-#EXTINF:-1,iFILM One IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665361
-#EXTINF:-1,iFILM Two IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665362
-#EXTINF:-1,Ekran Movies IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/686795
-#EXTINF:-1,CSI.FI TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682545
-#EXTINF:-1,Ava Series HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681928
-#EXTINF:-1,Maah TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665363
-#EXTINF:-1,Payam e Javan TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670452
-#EXTINF:-1,30 TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671493
-#EXTINF:-1,Madam+ HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671499
-#EXTINF:-1,TM TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671504
-#EXTINF:-1,Toosheh TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671505
-#EXTINF:-1,4U TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671506
-#EXTINF:-1,Khane Flim IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682543
-#EXTINF:-1,Eshare TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/686796
-#EXTINF:-1,Rangarang IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/649143
-#EXTINF:-1,My TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/672807
-#EXTINF:-1,Football TV FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682530
-#EXTINF:-1,Doshanbe TV FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682531
-#EXTINF:-1,TMT Music IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682532
-#EXTINF:-1,24Box FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682534
-#EXTINF:-1,24Box HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/666410
-#EXTINF:-1,M+ IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687072
-#EXTINF:-1,ABC One IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687074
-#EXTINF:-1,------- Religious -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687057
-#EXTINF:-1,Kalemeh TV FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671510
-#EXTINF:-1,Payame Aramesh IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50062
-#EXTINF:-1,Mohabat TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687083
-#EXTINF:-1,Payvand TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50056
-#EXTINF:-1,ICNET HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665193
-#EXTINF:-1,Mihan TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11242
-#EXTINF:-1,Mihan TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50052
-#EXTINF:-1,Shabakeh7 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671513
-#EXTINF:-1,SAT 7 Pars IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671512
-#EXTINF:-1,Towheed TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687092
-#EXTINF:-1,Omide Javedan IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50059
-#EXTINF:-1,----- IR News -----
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687053
-#EXTINF:-1,Iran International HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665359
-#EXTINF:-1,BBC Persian HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665358
-#EXTINF:-1,VoA TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665357
-#EXTINF:-1,Radio Farda HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/633303
-#EXTINF:-1,Persian Bazar HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681591
-#EXTINF:-1,Press TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/3664
-#EXTINF:-1,Your Time IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/637080
-#EXTINF:-1,------- IR Documentary -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687059
-#EXTINF:-1,Persiana Documentary HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681595
-#EXTINF:-1,Gem Travel HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665243
-#EXTINF:-1,Mostanad HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/3658
-#EXTINF:-1,Modern Economy HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665269
-#EXTINF:-1,Gem Nature IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50361
-#EXTINF:-1,------- IR Entertainment -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687061
-#EXTINF:-1,Persiana Entertainment FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687070
-#EXTINF:-1,Persiana Game & Tech HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681598
-#EXTINF:-1,Poker TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681597
-#EXTINF:-1,Amoozesh TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/678018
-#EXTINF:-1,Tapesh TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665200
-#EXTINF:-1,Tapesh 2 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671494
-#EXTINF:-1,Tapesh USA IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665201
-#EXTINF:-1,DD TV HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687079
-#EXTINF:-1,Madaar Plus IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687080
-#EXTINF:-1,Ganje Hozour IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11214
-#EXTINF:-1,Didgah TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671497
-#EXTINF:-1,Iran Farda HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665349
-#EXTINF:-1,Ayeneh TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/670457
-#EXTINF:-1,kanal jadid IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682542
-#EXTINF:-1,Simaye Azadi HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/34498
-#EXTINF:-1,Azadi TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687081
-#EXTINF:-1,Pars TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50024
-#EXTINF:-1,Pn TV IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681931
-#EXTINF:-1,ITN HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11221
-#EXTINF:-1,Iran TV Israel Live IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681593
-#EXTINF:-1,------- Children --------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687055
-#EXTINF:-1,Gem Kids HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665241
-#EXTINF:-1,Gem Junior HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665236
-#EXTINF:-1,Persiana Junior IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671200
-#EXTINF:-1,Hod Hod TV FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682539
-#EXTINF:-1,ITOON HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682565
-#EXTINF:-1,Pooya & Nahal IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681647
-#EXTINF:-1,U Toon IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671517
-#EXTINF:-1,------- IR Music -------
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687054
-#EXTINF:-1,Persiana Billboard FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/687071
-#EXTINF:-1,PMC HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665354
-#EXTINF:-1,Radio Javan HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665355
-#EXTINF:-1,Caltex Music FHD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11292
-#EXTINF:-1,Navahang HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/635495
-#EXTINF:-1,Persian Music IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/671502
-#EXTINF:-1,Avang HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682567
-#EXTINF:-1,GEM 24B HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682571
-#EXTINF:-1,Mifa Music HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665356
-#EXTINF:-1,Persiana Music HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/672808
-#EXTINF:-1,Persiana Plus HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/50053
-#EXTINF:-1,Persiana Turk Music HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/672809
-#EXTINF:-1,Music 1 HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/686800
-#EXTINF:-1,4Music HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/665198
-#EXTINF:-1,AFN Music HD IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/681590
-#EXTINF:-1,EBC1 IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/11225
-#EXTINF:-1,MTC IR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682538
+#EXTINF:-1,IR: IRIB TV 1
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3899
+#EXTINF:-1,IR: IRIB TV 2
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3900
+#EXTINF:-1,IR: IRIB TV 3
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3901
+#EXTINF:-1,IR: IRIB TV 4
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3902
+#EXTINF:-1,IR: IRIB TV 5
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3903
+#EXTINF:-1,IR: IRIB Varzesh
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3904
+#EXTINF:-1,IR: IRIB Ofogh
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3905
+#EXTINF:-1,IR: IRIB iFilm
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3906
+#EXTINF:-1,IR: IRIB IRINN
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3907
+#EXTINF:-1,IR: IRIB Mostanad HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3908
+#EXTINF:-1,IR: IRIB Namayesh
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3909
+#EXTINF:-1,IR: IRIB Nasim
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3910
+#EXTINF:-1,IR: IRIB Pooya
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3911
+#EXTINF:-1,IR: IRIB Salamat
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3912
+#EXTINF:-1,IR: IRIB Shoma
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3913
+#EXTINF:-1,IR: IRIB Alborz TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3914
+#EXTINF:-1,IR: IRIB Isfahan TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3915
+#EXTINF:-1,IR: IRIB Jahanbin TV (Chaharmahal and Bakhtiari)
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3916
+#EXTINF:-1,IR: IRIB Sahand TV (Azarbayjan Sharghi)
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3917
+#EXTINF:-1,IR: IRIB Sahar Kordi
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3918
+#EXTINF:-1,IR: Alalam
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3919
+#EXTINF:-1,IR: Andisheh TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3920
+#EXTINF:-1,IR: AZADI TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3921
+#EXTINF:-1,IR: BBC Persian
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3922
+#EXTINF:-1,IR: Channel 1 TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3923
+#EXTINF:-1,IR: Didgah TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3924
+#EXTINF:-1,IR: Ganje E Hozoor
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3925
+#EXTINF:-1,IR: GEM AZ HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3926
+#EXTINF:-1,IR: GEM BollyWood HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3927
+#EXTINF:-1,IR: GEM Film HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3928
+#EXTINF:-1,IR: GEM Junior HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3929
+#EXTINF:-1,IR: GEM Kids HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3930
+#EXTINF:-1,IR: GEM KURD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3931
+#EXTINF:-1,IR: GEM Life HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3932
+#EXTINF:-1,IR: GEM MIFA
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3933
+#EXTINF:-1,IR: GEM Music
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3934
+#EXTINF:-1,IR: GEM ONYX HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3935
+#EXTINF:-1,IR: GEM RIVER HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3936
+#EXTINF:-1,IR: Gem Rubix HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3937
+#EXTINF:-1,IR: GEM TEEN HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3938
+#EXTINF:-1,IR: GEM TV HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3939
+#EXTINF:-1,IR: GEM Life
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3940
+#EXTINF:-1,IR: GEM River
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3941
+#EXTINF:-1,IR: Manoto HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3942
+#EXTINF:-1,IR: Manoto FHD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3943
+#EXTINF:-1,IR: Mohabat TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3944
+#EXTINF:-1,IR: Pars TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3945
+#EXTINF:-1,IR: PMC HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3946
+#EXTINF:-1,IR: Radio Farda TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3947
+#EXTINF:-1,IR: SIMAYE AZADI
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3948
+#EXTINF:-1,IR: Tapesh TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3949
+#EXTINF:-1,IR: Tik TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3950
+#EXTINF:-1,IR: Tin TV
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3951
+#EXTINF:-1,IR: TV Persia
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3952
+#EXTINF:-1,IR: Varzish Sport HD
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3953
+#EXTINF:-1,IR: Velayat
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3954
+#EXTINF:-1,IR: VoA TV Persian
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3955
+#EXTINF:-1,IR: MBC Persia
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/3956
