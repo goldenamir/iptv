@@ -4,7 +4,7 @@
 https://sdw.telewebion.com/live/nasim/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Manoto" tvg-name="Manoto" tvg-country="IR-INT" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="Iran",Manoto
-https://list.iptvcat.com/my_list/s/89684f5766c50efc12e4a68c0ce8ad28.m3u8
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
 #EXTINF:-1 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
