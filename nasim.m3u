@@ -1,14 +1,85 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB NASIM
-https://sdw.telewebion.com/live/nasim/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Manoto" tvg-name="Manoto" tvg-country="IR-INT" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="Iran",Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
-
-#EXTINF:-1 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
-
-
-#EXTINF:-1 tvg-country="IR" tvg-logo="https://i.imgur.com/NqTGH0Q.png" group-title="News",Radio Farda
-https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,|Iran| Irib Nasim
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50213
+#EXTINF:-1,|Iran| IRIB Shoma
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50214
+#EXTINF:-1,|Iran| Mostanad HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50215
+#EXTINF:-1,|Iran| PMC
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50216
+#EXTINF:-1,|Iran| Manoto Plus HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50217
+#EXTINF:-1,|Iran| Khatereh TV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50218
+#EXTINF:-1,|Iran| Gem River HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50219
+#EXTINF:-1,|Iran| Gem Rubix HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50220
+#EXTINF:-1,Iran | Shamshad TV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50221
+#EXTINF:-1,|Iran| Gem Series HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50222
+#EXTINF:-1,|Iran| Gem USA
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50223
+#EXTINF:-1,|Iran| GEM KIDS
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50224
+#EXTINF:-1,|Iran| MBC IRsia HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50225
+#EXTINF:-1,|Iran| Tolo News HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50226
+#EXTINF:-1,|Iran| Maxx
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50227
+#EXTINF:-1,|Iran| ATV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50228
+#EXTINF:-1,|Iran| GEM Junior
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50229
+#EXTINF:-1,|Iran| Irrib Noor
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50230
+#EXTINF:-1,|Iran| Irrib Omid
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50231
+#EXTINF:-1,|Iran| Gem Bollywood
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50232
+#EXTINF:-1,|Iran| Zhwandoon
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50233
+#EXTINF:-1,|Iran| Irrib Kurdistan
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50234
+#EXTINF:-1,|Iran| Irrib Sablan
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50235
+#EXTINF:-1,|Iran| Ayeneh TV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50236
+#EXTINF:-1,|Iran| IRIB Salamat
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50237
+#EXTINF:-1,|Iran| Irrib Kermansha
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50238
+#EXTINF:-1,|Iran| Maiwand TV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50239
+#EXTINF:-1,|Iran| Pooya TV Nahal
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50240
+#EXTINF:-1,|Iran| Irib Namayesh
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50241
+#EXTINF:-1,|Iran| Z TV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50242
+#EXTINF:-1,|Iran| VoA TV IRsian
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50243
+#EXTINF:-1,|Iran| Payam E Afghan TV
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50244
+#EXTINF:-1,|Iran| Varzish Sport HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50245
+#EXTINF:-1,|Iran| IRIB TV 1
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50246
+#EXTINF:-1,|Iran| IRIB TV 3
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50247
+#EXTINF:-1,|Iran| IRIB TV 2
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50248
+#EXTINF:-1,|Iran| IRIB TV 5
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50249
+#EXTINF:-1,|Iran| IRIB TV 4
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50250
+#EXTINF:-1,|Iran| IRIB AMOOZESH
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50251
+#EXTINF:-1,|Iran| ICC
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50252
+#EXTINF:-1,|Iran| Tolo HD
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50253
+#EXTINF:-1,|Iran| BBC IRsian
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/50254
